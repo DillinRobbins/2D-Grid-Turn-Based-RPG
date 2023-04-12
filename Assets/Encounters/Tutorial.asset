@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1447b1484cf20104295c2d9060201ba8, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  Orientation: 0
+  CharacterTypes:
+  - {fileID: 11400000, guid: 3a74e0d39e4e89e4fb4b404aa71a8ae8, type: 2}
+  - {fileID: 11400000, guid: 92d0c156a6a60444cadddc0ca05a3911, type: 2}
+  Rows: 9
+  Columns: 5
+  Enemy1Number: 25
+  Enemy2Number: 25
+  Enemy3Number: 0
+  Enemy4Number: 0
+  Enemy5Number: 0
